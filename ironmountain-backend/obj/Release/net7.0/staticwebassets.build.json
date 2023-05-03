@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YtKmwdClD2g7rYtN3QL0OSj6aSwNdI6pCrYVU7ELD+E=",
+  "Source": "ironmountain-backend",
+  "BasePath": "_content/ironmountain-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
